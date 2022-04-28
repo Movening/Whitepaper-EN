@@ -32,8 +32,8 @@ Movening (MOVI) is a TOKEN that uses the Binance Smart Chain network and is used
 **TAX Transaction:**
 
 * Buy TAX is 0% | Buy commission free!
-* Selling TAX is 1% | 1% divided in 2 pools\*
+* Selling TAX is 6% | 6% divided in 2 pools\*
 
-\*Liquid pool: 0.25% for liquid pool
+\*Liquid pool: 2% for liquid pool
 
-\*Marketing and Reward Pool: 0.75%
+\*Marketing and Reward Pool: 4%
