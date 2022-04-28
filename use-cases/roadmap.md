@@ -6,39 +6,39 @@ description: Every process has its steps, here we show you ours.
 
 **Q1/2022**
 
-* Team Meeting ✅
-* Idea and Design ✅
-* Tokenomics ✅
-* Development initiation ✅
-* SmartContract(Testnet BSC) ✅
-* Create Anti-Cheat ✅
-* Support all EVM network ✅
-* Add Walletconnect  Web3(Metamask, TrustWallet…) ✅
+* ✅ Team Meeting&#x20;
+* ✅ Idea and Design&#x20;
+* ✅ Tokenomics&#x20;
+* ✅ Development initiation&#x20;
+* ✅ SmartContract(Testnet BSC)&#x20;
+* ✅ Create Anti-Cheat&#x20;
+* ✅ Support all EVM network&#x20;
+* ✅ Add Walletconnect  Web3(Metamask, TrustWallet…)&#x20;
 
 ##
 
 **Q2/2022**
 
-* Run Tesnet ✅
-* IDO Pinksale ⏳
-* Campaing Marketing ⏳
-* List Pancakeswap, CoinMarketCap, CoinGecko ⏳
-* Move-to-Earn ⏳
-* Run Open Beta (Android, IOS) ⏳
-* Open Marketplace (NFT) ⏳
+* ✅ Run Tesnet&#x20;
+* ⏳ IDO Pinksale&#x20;
+* ⏳ Campaing Marketing&#x20;
+* ⏳ List Pancakeswap, CoinMarketCap, CoinGecko&#x20;
+* ⏳ Move-to-Earn&#x20;
+* ⏳ Run Open Beta (Android, IOS)&#x20;
+* ⏳ Open Marketplace (NFT)&#x20;
 
 ##
 
 **Q3/2022**
 
-* Support Fantom network ⏳
-* Support Solana network ⏳
-* Support Waves network ⏳
-* Movening solo/party/shopper mode include ⏳
+* ⏳ Support Fantom network&#x20;
+* ⏳ Support Solana network&#x20;
+* ⏳ Support Waves network&#x20;
+* ⏳ Movening solo/party/shopper mode include&#x20;
 
 ##
 
 **Q4/2022**
 
-* Inclusion MOVENING in metaverse, earn profits walking through your favorite metaverse ⏳
-* DAO Initialization **** ⏳
+* ⏳ Inclusion MOVENING in METAVERSE, earn profits walking through your favorite METAVERSE.
+* ⏳ DAO Initialization ****&#x20;
