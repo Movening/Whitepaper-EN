@@ -8,7 +8,7 @@ description: Surprise balloons too!
 Some game modes will be available in the future, we are working to improve this!
 {% endhint %}
 
-Before we start talking about Moving, we will say that both tokens and surprise balloons will be sold. You will be able to acquire a surprise balloon that will contain elements such as repair parts for your sneakers, energy snack or even the rarest sneakers in the world!&#x20;
+Before we start talking about Movening, we will say that both tokens and surprise balloons will be sold. You will be able to acquire a surprise balloon that will contain elements such as repair parts for your sneakers, energy snack or even the rarest sneakers in the world!&#x20;
 
 Repair parts will have categories to repair your shoes faster than your opponents (ranked mode, in the near future).&#x20;
 
