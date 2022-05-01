@@ -22,3 +22,9 @@
 * [Tokenomics](use-cases/tokenomics.md)
 * [Roadmap](use-cases/roadmap.md)
 * [Movening App Web3](use-cases/movening-app-web3.md)
+
+## 🌐 Languages
+
+* [Spanish](https://docs-es.movening.com)
+* [Chinese](https://docs-ch.movening.com)
+* [Russian](https://docs-ru.movening.com)
