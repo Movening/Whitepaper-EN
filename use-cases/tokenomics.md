@@ -19,13 +19,13 @@ Movening (MOVI) is a TOKEN that uses the Binance Smart Chain network and is used
 
 ##
 
-| Distribution |      Amount      |                     Note                     |
-| :----------: | :--------------: | :------------------------------------------: |
-| Move-To-Earn | 10,500,000 (50%) |                                              |
-|  Fair Launch |  5,880,000 (28%) |            Pinksale - Unlock 100%            |
-|   Liquidity  |  3,150,000 (15%) |                    DEX/CEX                   |
-|     Team     |  1,260,000 (6%)  | 24 months cliff, linear vesting over 2 years |
-|   Airdrops   |   210,000 (1%)   |                                              |
+| Distribution |       Amount      |                     Note                     |
+| :----------: | :---------------: | :------------------------------------------: |
+| Move-To-Earn | 8,358,000 (39.8%) |                                              |
+|  Fair Launch |  5,880,000 (28%)  |            Pinksale - Unlock 100%            |
+|   Liquidity  | 5,292,000 (25.2%) |                    DEX/CEX                   |
+|     Team     |   1,260,000 (6%)  | 24 months cliff, linear vesting over 2 years |
+|   Airdrops   |    210,000 (1%)   |                                              |
 
 ##
 
