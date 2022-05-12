@@ -20,6 +20,7 @@ description: Every process has its steps, here we show you ours.
 **Q2/2022**
 
 * ✅ Run Tesnet&#x20;
+* ✅ Mainet Deployment
 * ⏳ IDO Pinksale&#x20;
 * ⏳ Campaing Marketing&#x20;
 * ⏳ List Pancakeswap, CoinMarketCap, CoinGecko&#x20;
