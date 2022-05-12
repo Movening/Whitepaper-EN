@@ -22,6 +22,7 @@
 * [Tokenomics](use-cases/tokenomics.md)
 * [Roadmap](use-cases/roadmap.md)
 * [Movening App Web3](use-cases/movening-app-web3.md)
+* [Security](use-cases/security.md)
 
 ## 🌐 Languages
 
