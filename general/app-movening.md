@@ -18,11 +18,19 @@
 
 **First step:** Buy your shoes (NFT).
 
+![](../.gitbook/assets/zapas.png)
+
 **Second step:** select your preferred NFT from the gallery of available NFTs.
+
+![](../.gitbook/assets/FOTO4.png)
 
 **Third step:** press GO! in the Moving app that you have on your smartphone or tablet.
 
+![](../.gitbook/assets/FOTO2.png)
+
 **Fourth step:** when you finish running or doing your favorite sport you can claim your rewards.
+
+![](../.gitbook/assets/earnDemoAndroid.png)
 
 There will be a certain time to carry out your favorite activities and it is 50 minutes a day, choose them when you feel like it or feel motivated!
 
