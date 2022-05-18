@@ -1,7 +1,5 @@
 # App Movening
 
-s
-
 ![](broken-reference)
 
 **Access to the Whitelist App Movening:**&#x20;
@@ -18,42 +16,42 @@ s
 
 **Once the trial period has been passed, the steps to follow to start earning money doing sports as a good citizen must first be carried out a series of steps.**
 
-**Primer paso:** Comprar tus zapatillas (NFT).
+**First step:** Buy your shoes (NFT).
 
 ![](broken-reference)
 
-_**Segundo paso:**_ seleccionar tu NFT preferido desde la galeria de NFT disponibles.
+**Second step:** select your preferred NFT from the gallery of available NFTs.
 
 ![](broken-reference)
 
-_**Tercer paso:**_ pulsa **GO! **_****_ en la app Movening que tienes en tu smartphone o tablet.
+**Third step:** press GO! in the Moving app that you have on your smartphone or tablet.
 
 ![](broken-reference)
 
-_**Cuarto paso:**_ cuando termines de correr o hacer tu deporte preferido podras reclamar tus recompensas.
+**Fourth step:** when you finish running or doing your favorite sport you can claim your rewards.
 
 ![](broken-reference)
 
-Habra un tiempo determinado para realizar tus actividades preferidas y es de 50 minutos al dia, escogelos cuando te apetezca o te sientas motivado!
+There will be a certain time to carry out your favorite activities and it is 50 minutes a day, choose them when you feel like it or feel motivated!
 
-Cosas que tener en cuenta:
+Things to keep in mind:
 
-Una vez apretado el boton _**GO**_ el tiempo empieza a contar, es mejor que estes preparado porque el tiempo corre y como es de todos sabido, el tiempo es _**oro**_!
+Once the **GO** button is pressed, time begins to count down, you better be prepared because time is ticking and as everyone knows, time is money!
 
-Habra tipos de zapatillas adecuados a cada nivel de ejercicio, desde el nivel light hasta nivel extremo.
+There will be types of shoes suitable for each level of exercise, from the light level to the extreme level.
 
-_**-Zapatillas suaves:**_ numero minimo de pasos 1000, numero maximo 5000. Tiene un bonus de 8.
+**-Soft shoes:** minimum number of steps 1000, maximum number 5000. It has a bonus of 8.
 
-_**-Zapatillas medias:**_ numero minimo de pasos 3500, numero maximo 8500. Tiene un bonus de 9.
+**-Medium shoes:** minimum number of steps 3500, maximum number 8500. It has a bonus of 9.
 
-_**-Zapatillas extremas:**_ numero minimo de pasos 6500, numero maximo 15500. Tiene un bonus de 10.
+**-Extreme shoes:** minimum number of steps 6500, maximum number 15500. It has a bonus of 10.
 
-Hay que tener en cuenta las zapatillas raras ya que su nivel de ganar token es diferente.
+You have to take into account the rare shoes since their level of earning token is different.
 
-|  Rareza  |       Eficiencia       |      Durabilidad      |
-| :------: | :--------------------: | :-------------------: |
-|   Raro   |  minimo 300 maximo 500 | minimo 100 maximo 200 |
-| Muy raro |  minimo 500 maximo 800 | minimo 200 maximo 400 |
-|   Epico  | minimo 800 maximo 1100 | minimo 300 maximo 500 |
+|   Rarity  |        Efficiency        |        Durability       |
+| :-------: | :----------------------: | :---------------------: |
+|    Rare   |  minimum 300 maximum 500 | minimum 100 maximum 200 |
+| Very rare |  minimum 500 maximum 800 | minimum 200 maximum 400 |
+|    Epic   | minimum 800 maximum 1100 | minimum 300 maximum 500 |
 
 s
