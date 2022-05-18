@@ -54,4 +54,3 @@ You have to take into account the rare shoes since their level of earning token 
 | Very rare |  minimum 500 maximum 800 | minimum 200 maximum 400 |
 |    Epic   | minimum 800 maximum 1100 | minimum 300 maximum 500 |
 
-s
