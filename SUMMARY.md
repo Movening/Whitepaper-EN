@@ -9,6 +9,7 @@
   * [Energy](general/game-fi/energy.md)
   * [Level](general/game-fi/level.md)
   * [Repair tools](general/game-fi/repair-tools.md)
+* [App Movening](general/app-movening.md)
 
 ## 🏃♂ GameFi System
 
