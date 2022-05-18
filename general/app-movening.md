@@ -30,8 +30,6 @@
 
 **Fourth step:** when you finish running or doing your favorite sport you can claim your rewards.
 
-![](../.gitbook/assets/earnDemoAndroid.png)
-
 There will be a certain time to carry out your favorite activities and it is 50 minutes a day, choose them when you feel like it or feel motivated!
 
 Things to keep in mind:
