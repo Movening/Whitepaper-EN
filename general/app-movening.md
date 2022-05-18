@@ -1,6 +1,6 @@
 # App Movening
 
-![](broken-reference)
+![](../.gitbook/assets/FOTO5.png)
 
 **Access to the Whitelist App Movening:**&#x20;
 
@@ -18,19 +18,11 @@
 
 **First step:** Buy your shoes (NFT).
 
-![](broken-reference)
-
 **Second step:** select your preferred NFT from the gallery of available NFTs.
-
-![](broken-reference)
 
 **Third step:** press GO! in the Moving app that you have on your smartphone or tablet.
 
-![](broken-reference)
-
 **Fourth step:** when you finish running or doing your favorite sport you can claim your rewards.
-
-![](broken-reference)
 
 There will be a certain time to carry out your favorite activities and it is 50 minutes a day, choose them when you feel like it or feel motivated!
 
