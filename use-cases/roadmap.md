@@ -25,24 +25,36 @@ description: Every process has its steps, here we show you ours.
 * ✅ Campaing Marketing&#x20;
 * ✅ List Pancakeswap&#x20;
 * ✅ List PooCoin&#x20;
-* ✅ Complete team change.
+* ✅ Complete team change
 
 ##
 
 **Q3/2022**
 
-* ✅Restructuring project Movening.
+* ✅ Restructuring project Movening
 * ✅ Liquidity injection. (2/10)
-* ⏳ Support Solana network&#x20;
-* ⏳ Support Waves network&#x20;
-* ⏳ Movening solo/party/shopper mode include&#x20;
+* ⏳ Roadmap 2.0 design and creation
+* ⏳ Change Whitepaper Movening 2.0
+* ⏳ Change web Movening 2.0
+* ⏳ Owner/Marketing wallet transfer to new team
+* ⏳ NFT staking
+* ⏳ Special reward for veteran holder
+* ⏳Listing other DEX
+
+
 
 ##
 
 **Q4/2022**
 
-* ⏳ Inclusion MOVENING in METAVERSE, earn profits walking through your favorite METAVERSE.
-*
 * ⏳ Run Open Beta (Android, IOS)&#x20;
+* ⏳ Movening solo/party/shopper mode include&#x20;
 * ⏳ Open Marketplace (NFT)&#x20;
 * ⏳ DAO Initialization ****&#x20;
+* ⏳ Renounce Owner contract
+
+**Q1/2023**
+
+⏳ Inclusion MOVENING in METAVERSE, earn profits walking through your favorite METAVERSE.
+
+⏳ **** Mode change to metaverse only.
