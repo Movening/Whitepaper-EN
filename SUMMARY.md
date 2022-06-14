@@ -22,7 +22,7 @@
 * [🏃 Movening mechanics](game/movening-mechanics.md)
 * [🎈 Surprise balloon](game/surprise-balloon.md)
 * [⛔ Anti-cheat system](game/anti-cheat-system.md)
-* [🏬 Market](game/market.md)
+* [🏬 Marketplace](game/marketplace.md)
 
 ## ROADMAP / SECURITY
 
