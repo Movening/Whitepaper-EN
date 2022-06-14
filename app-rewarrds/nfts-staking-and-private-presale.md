@@ -2,7 +2,7 @@
 description: Surprise balloons too!
 ---
 
-# NFT private presale
+# 🎁 NFTs Staking & private presale
 
 {% hint style="info" %}
 Some game modes will be available in the future, we are working to improve this!

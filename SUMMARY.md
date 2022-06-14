@@ -15,7 +15,7 @@
   * [Level](app-rewarrds/game-fi/level.md)
   * [Repair tools](app-rewarrds/game-fi/repair-tools.md)
 * [📲 App Movening](app-rewarrds/app-movening.md)
-* [NFTs Staking & private presale](app-rewarrds/nfts-staking-and-private-presale.md)
+* [🎁 NFTs Staking & private presale](app-rewarrds/nfts-staking-and-private-presale.md)
 
 ## 🏃♂ GameFi System
 
