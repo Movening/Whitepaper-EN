@@ -1,15 +1,19 @@
 # Table of contents
 
+* [tokenomic](README.md)
+* [Page 2](page-2.md)
+* [Page 3](page-3.md)
+
 ## 🚶 General
 
-* [Overview of Movening](README.md)
-* [NFT private presale](general/nft-private-presale.md)
+* [Overview of Movening](<README (1).md>)
 * [Game-Fi](general/game-fi/README.md)
   * [Sneakers](general/game-fi/sneakers.md)
   * [Energy](general/game-fi/energy.md)
   * [Level](general/game-fi/level.md)
   * [Repair tools](general/game-fi/repair-tools.md)
 * [App Movening](general/app-movening.md)
+* [NFT private presale](general/nft-private-presale.md)
 
 ## 🏃♂ GameFi System
 
