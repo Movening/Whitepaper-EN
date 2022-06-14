@@ -3,13 +3,7 @@
 ## TOKENOMICS
 
 * [🪙 Token Information](README.md)
-* [Game-Fi](tokenomics/game-fi/README.md)
-  * [Sneakers](tokenomics/game-fi/sneakers.md)
-  * [Energy](tokenomics/game-fi/energy.md)
-  * [Level](tokenomics/game-fi/level.md)
-  * [Repair tools](tokenomics/game-fi/repair-tools.md)
-* [App Movening](tokenomics/app-movening.md)
-* [NFT private presale](tokenomics/nft-private-presale.md)
+* [📄 Distribution](tokenomics/distribution.md)
 
 ## 🚶 General
 
