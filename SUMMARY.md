@@ -1,12 +1,8 @@
 # Table of contents
 
-* [tokenomic](README.md)
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
-
 ## 🚶 General
 
-* [Overview of Movening](<README (1).md>)
+* [Overview of Movening](README.md)
 * [Game-Fi](general/game-fi/README.md)
   * [Sneakers](general/game-fi/sneakers.md)
   * [Energy](general/game-fi/energy.md)
