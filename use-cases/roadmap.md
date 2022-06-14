@@ -37,9 +37,12 @@ description: Every process has its steps, here we show you ours.
 * ⏳ Change Whitepaper Movening 2.0
 * ⏳ Change web Movening 2.0
 * ⏳ Owner/Marketing wallet transfer to new team
+* ⏳ Change design sneakers
 * ⏳ NFT staking
 * ⏳ Special reward for veteran holder
-* ⏳Listing other DEX
+* ⏳ Listing other DEX
+
+
 
 
 
