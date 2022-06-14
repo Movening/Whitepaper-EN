@@ -7,7 +7,7 @@
 
 ## 🚶 General
 
-* [Overview of Movening](<README (1).md>)
+* [Requirements to play](<README (1).md>)
 * [Game-Fi](general/game-fi/README.md)
   * [Sneakers](general/game-fi/sneakers.md)
   * [Energy](general/game-fi/energy.md)
