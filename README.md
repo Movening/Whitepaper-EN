@@ -1,7 +1,3 @@
----
-description: APP MOVE-TO-EARN
----
-
 # 🪙 Token Information
 
 
