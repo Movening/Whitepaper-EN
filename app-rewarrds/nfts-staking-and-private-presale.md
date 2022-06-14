@@ -18,5 +18,6 @@ The rare types of shoes, you can finally run the marathon with fish-shaped shoes
 
 Each balloon will have a cost and of course the most expensive balloon gives you the chance to get a rarer NFT, repair part or more unusual sneakers than you can imagine.
 
-> Soon more information will be added on the way
-
+{% hint style="info" %}
+soon more information will be added on the way
+{% endhint %}
