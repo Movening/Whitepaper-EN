@@ -8,8 +8,6 @@ Sneakers can be different and for every taste.
 
 **Normal slippers:** _Normal and current footwear that provides you with a comfortable walk._&#x20;
 
-![](../../.gitbook/assets/z4.png) ![](../../.gitbook/assets/z12.png) ![](<../../.gitbook/assets/z10 (1).png>)
-
 ##
 
 **Sneakers:** _We increased the level of comfort and durability of the sole (think damage). Unlockable/Rare Sneakers (Available only by surprise balloons):_&#x20;
