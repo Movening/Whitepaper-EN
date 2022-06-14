@@ -20,9 +20,9 @@
 ## GameFi System
 
 * [📣 Movening mechanics](gamefi-system/movening-mechanics.md)
-* [Surprise balloon](gamefi-system/surprise-balloon.md)
-* [Anti-cheat system](gamefi-system/anti-cheat-system.md)
-* [Market](gamefi-system/market.md)
+* [🎈 Surprise balloon](gamefi-system/surprise-balloon.md)
+* [⛔ Anti-cheat system](gamefi-system/anti-cheat-system.md)
+* [🏬 Market](gamefi-system/market.md)
 
 ## 🏃♀ Use Cases
 

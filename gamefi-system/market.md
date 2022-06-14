@@ -2,7 +2,7 @@
 description: Place where you can exchange, buy and sell your shoes.
 ---
 
-# Market
+# 🏬 Market
 
 **\*Sale:** you can sell your shoes (it does not matter if they are used, the important thing is that they are repaired)&#x20;
 
