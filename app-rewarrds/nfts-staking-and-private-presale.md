@@ -2,11 +2,13 @@
 description: Surprise balloons too!
 ---
 
-# 🎁 NFTs Staking & private presale
+# 🎁 NFTs Staking & Private presale
 
 {% hint style="info" %}
 Some game modes will be available in the future, we are working to improve this!
 {% endhint %}
+
+NFT staking refers to holding NFTs on a platform or exchange in exchange for staking rewards and other benefits. Staking NFTs allows holders to earn income from their collection of assets while maintaining ownership of them.
 
 Before we start talking about Movening, we will say that both tokens and surprise balloons will be sold. You will be able to acquire a surprise balloon that will contain elements such as repair parts for your sneakers, energy snack or even the rarest sneakers in the world!&#x20;
 
