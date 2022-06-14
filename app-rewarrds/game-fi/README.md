@@ -2,7 +2,7 @@
 description: Here we explain some modes that the game will have.
 ---
 
-# Game-Fi
+# 🚴 Game-Fi
 
 {% hint style="info" %}
 Anticheat: our app is smart and detects the GPS/internet signal very fast as if you were driving a car. Any account that violates the terms of the game will be suspended, you can't tie your smartphone to a bird and expect it to play sports for you!
