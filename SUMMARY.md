@@ -5,16 +5,17 @@
 * [🪙 Token Information](README.md)
 * [📄 Distribution](tokenomics/nft-private-presale.md)
 
-## 🚶 General
+## 💻 Requirements to play
 
-* [Requirements to play](<README (1).md>)
-* [Game-Fi](general/game-fi/README.md)
-  * [Sneakers](general/game-fi/sneakers.md)
-  * [Energy](general/game-fi/energy.md)
-  * [Level](general/game-fi/level.md)
-  * [Repair tools](general/game-fi/repair-tools.md)
-* [App Movening](general/app-movening.md)
-* [NFT private presale](general/nft-private-presale.md)
+* [Requirements to play](requirements-to-play/defaultsite.md)
+* [Copy of Requirements to play](requirements-to-play/defaultsite-1.md)
+* [Game-Fi](requirements-to-play/game-fi/README.md)
+  * [Sneakers](requirements-to-play/game-fi/sneakers.md)
+  * [Energy](requirements-to-play/game-fi/energy.md)
+  * [Level](requirements-to-play/game-fi/level.md)
+  * [Repair tools](requirements-to-play/game-fi/repair-tools.md)
+* [App Movening](requirements-to-play/app-movening.md)
+* [NFT private presale](requirements-to-play/nft-private-presale.md)
 
 ## 🏃♂ GameFi System
 
