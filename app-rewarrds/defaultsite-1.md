@@ -1,10 +1,9 @@
 ---
-description: APP MOVE-TO-EARN
 cover: ../.gitbook/assets/z14.png
 coverY: 0
 ---
 
-# Copy of Requirements to play
+# 💎 Movening
 
 Movening is an application that will make you a true athlete, jump, dance, go shopping and earn MOVI! Built around an essential daily activity for most: moving, helping people earn passive income while maintaining a healthy life.&#x20;
 
