@@ -8,7 +8,7 @@
 ## APP / REWARRDS
 
 * [💻 Requirements to play](app-rewarrds/defaultsite.md)
-* [Copy of Requirements to play](app-rewarrds/defaultsite-1.md)
+* [Overview of Movening](app-rewarrds/defaultsite-1.md)
 * [Game-Fi](app-rewarrds/game-fi/README.md)
   * [Sneakers](app-rewarrds/game-fi/sneakers.md)
   * [Energy](app-rewarrds/game-fi/energy.md)
