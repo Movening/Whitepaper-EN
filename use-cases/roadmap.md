@@ -2,7 +2,7 @@
 description: Every process has its steps, here we show you ours.
 ---
 
-# 🛣 Roadmap
+# Roadmap
 
 **Q1/2022**
 
@@ -21,12 +21,10 @@ description: Every process has its steps, here we show you ours.
 
 * ✅ Run Tesnet&#x20;
 * ✅ Mainet Deployment
-* ✅ IDO Pinksale&#x20;
-* ✅ Campaing Marketing&#x20;
-* ✅ List Pancakeswap&#x20;
-* &#x20;✅List PooCoin&#x20;
-* ✅Restructuring project Movening.
-* ✅ Liquidity injection. (2/10)
+* ⏳ IDO Pinksale&#x20;
+* ⏳ Campaing Marketing&#x20;
+* ⏳ List Pancakeswap, CoinMarketCap, CoinGecko&#x20;
+* ⏳ Move-to-Earn&#x20;
 * ⏳ Run Open Beta (Android, IOS)&#x20;
 * ⏳ Open Marketplace (NFT)&#x20;
 

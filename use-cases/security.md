@@ -8,3 +8,4 @@
 
 {% embed url="https://github.com/AnalytixAudit/KYC/blob/main/KYC_Movening.pdf" %}
 
+Note: Movening is currently under Public Beta Phase, so contents in the Whitepaper could be changed in the future.
