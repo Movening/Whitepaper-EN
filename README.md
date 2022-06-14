@@ -1,7 +1,5 @@
 ---
 description: APP MOVE-TO-EARN
-cover: .gitbook/assets/z14.png
-coverY: 0
 ---
 
 # 🪙 Token Information
