@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/z14.png
-coverY: 0
----
-
 # 💻 Requirements to play
 
 
