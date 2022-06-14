@@ -3,7 +3,7 @@
 ## TOKENOMICS
 
 * [🪙 Token Information](README.md)
-* [📄 Distribution](tokenomics/distribution.md)
+* [📄 Distribution](tokenomics/nft-private-presale.md)
 
 ## 🚶 General
 
