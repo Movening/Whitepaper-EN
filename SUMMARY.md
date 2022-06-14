@@ -9,7 +9,7 @@
 
 * [💻 Requirements to play](app-rewarrds/defaultsite.md)
 * [💎 Movening](app-rewarrds/defaultsite-1.md)
-* [Game-Fi](app-rewarrds/game-fi/README.md)
+* [🚴 Game-Fi](app-rewarrds/game-fi/README.md)
   * [Sneakers](app-rewarrds/game-fi/sneakers.md)
   * [Energy](app-rewarrds/game-fi/energy.md)
   * [Level](app-rewarrds/game-fi/level.md)
