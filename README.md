@@ -1,2 +1,2 @@
-# TOKENOMICS
+# 🪙 TOKENOMICS
 
