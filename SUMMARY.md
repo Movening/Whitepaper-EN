@@ -17,7 +17,7 @@
 * [📲 App Movening](app-rewarrds/app-movening.md)
 * [🎁 NFTs Staking & Private presale](app-rewarrds/nfts-staking-and-private-presale.md)
 
-## 🏃♂ GameFi System
+## GameFi System
 
 * [Movening mechanics](gamefi-system/movening-mechanics.md)
 * [Surprise balloon](gamefi-system/surprise-balloon.md)
