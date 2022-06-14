@@ -5,17 +5,17 @@
 * [🪙 Token Information](README.md)
 * [📄 Distribution](tokenomics/nft-private-presale.md)
 
-## APP / REWARRDS
+## APP / REWARDS
 
-* [💻 Requirements to play](app-rewarrds/defaultsite.md)
-* [💎 Movening](app-rewarrds/defaultsite-1.md)
-* [🚴 Game-Fi](app-rewarrds/game-fi/README.md)
-  * [Sneakers](app-rewarrds/game-fi/sneakers.md)
-  * [Energy](app-rewarrds/game-fi/energy.md)
-  * [Level](app-rewarrds/game-fi/level.md)
-  * [Repair tools](app-rewarrds/game-fi/repair-tools.md)
-* [📲 App Movening](app-rewarrds/app-movening.md)
-* [🎁 NFTs Staking & Private presale](app-rewarrds/nfts-staking-and-private-presale.md)
+* [💻 Requirements to play](app-rewards/defaultsite.md)
+* [💎 Movening](app-rewards/defaultsite-1.md)
+* [🚴 Game-Fi](app-rewards/game-fi/README.md)
+  * [Sneakers](app-rewards/game-fi/sneakers.md)
+  * [Energy](app-rewards/game-fi/energy.md)
+  * [Level](app-rewards/game-fi/level.md)
+  * [Repair tools](app-rewards/game-fi/repair-tools.md)
+* [📲 App Movening](app-rewards/app-movening.md)
+* [🎁 NFTs Staking & Private presale](app-rewards/nfts-staking-and-private-presale.md)
 
 ## GameFi System
 
@@ -24,10 +24,10 @@
 * [⛔ Anti-cheat system](gamefi-system/anti-cheat-system.md)
 * [🏬 Market](gamefi-system/market.md)
 
-## 🏃♀ Use Cases
+## ROADMAP / SECURITY
 
-* [Roadmap](use-cases/roadmap.md)
-* [Security](use-cases/security.md)
+* [🛣 Roadmap](roadmap-security/roadmap.md)
+* [🔒 Security](roadmap-security/security.md)
 
 ## 🌐 Languages
 
