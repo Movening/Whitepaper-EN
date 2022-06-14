@@ -1,8 +1,8 @@
 # Table of contents
 
-## 🪙 TOKENOMICS
+## TOKENOMICS
 
-* [Overview of Movening](README.md)
+* [🪙 Token Information](README.md)
 * [Game-Fi](tokenomics/game-fi/README.md)
   * [Sneakers](tokenomics/game-fi/sneakers.md)
   * [Energy](tokenomics/game-fi/energy.md)
