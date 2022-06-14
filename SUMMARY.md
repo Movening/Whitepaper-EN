@@ -1,8 +1,19 @@
 # Table of contents
 
-## 🚶 General
+## 🪙 TOKENOMICS
 
 * [Overview of Movening](README.md)
+* [Game-Fi](tokenomics/game-fi/README.md)
+  * [Sneakers](tokenomics/game-fi/sneakers.md)
+  * [Energy](tokenomics/game-fi/energy.md)
+  * [Level](tokenomics/game-fi/level.md)
+  * [Repair tools](tokenomics/game-fi/repair-tools.md)
+* [App Movening](tokenomics/app-movening.md)
+* [NFT private presale](tokenomics/nft-private-presale.md)
+
+## 🚶 General
+
+* [Overview of Movening](<README (1).md>)
 * [Game-Fi](general/game-fi/README.md)
   * [Sneakers](general/game-fi/sneakers.md)
   * [Energy](general/game-fi/energy.md)
