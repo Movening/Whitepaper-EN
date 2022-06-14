@@ -2,7 +2,7 @@
 
 * [🪙 TOKENOMICS](README.md)
 * [Tokenomics](tokenomics-1/README.md)
-  * [Tokenomics](tokenomics-1/tokenomics/README.md)
+  * [Tokenomics](tokenomics/tokenomics.md)
     * [Page 2](tokenomics-1/tokenomics/page-2.md)
 
 ## 🚶 General
