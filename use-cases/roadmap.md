@@ -2,7 +2,7 @@
 description: Every process has its steps, here we show you ours.
 ---
 
-# Roadmap
+# 🛣 Roadmap
 
 **Q1/2022**
 
@@ -21,18 +21,18 @@ description: Every process has its steps, here we show you ours.
 
 * ✅ Run Tesnet&#x20;
 * ✅ Mainet Deployment
-* ⏳ IDO Pinksale&#x20;
-* ⏳ Campaing Marketing&#x20;
-* ⏳ List Pancakeswap, CoinMarketCap, CoinGecko&#x20;
-* ⏳ Move-to-Earn&#x20;
-* ⏳ Run Open Beta (Android, IOS)&#x20;
-* ⏳ Open Marketplace (NFT)&#x20;
+* ✅ IDO Pinksale&#x20;
+* ✅ Campaing Marketing&#x20;
+* ✅ List Pancakeswap&#x20;
+* ✅ List PooCoin&#x20;
+* ✅ Complete team change.
 
 ##
 
 **Q3/2022**
 
-* ⏳ Support Fantom network&#x20;
+* ✅Restructuring project Movening.
+* ✅ Liquidity injection. (2/10)
 * ⏳ Support Solana network&#x20;
 * ⏳ Support Waves network&#x20;
 * ⏳ Movening solo/party/shopper mode include&#x20;
@@ -42,4 +42,7 @@ description: Every process has its steps, here we show you ours.
 **Q4/2022**
 
 * ⏳ Inclusion MOVENING in METAVERSE, earn profits walking through your favorite METAVERSE.
+*
+* ⏳ Run Open Beta (Android, IOS)&#x20;
+* ⏳ Open Marketplace (NFT)&#x20;
 * ⏳ DAO Initialization ****&#x20;
