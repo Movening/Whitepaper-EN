@@ -33,4 +33,3 @@
 
 * [🇪🇸 Spanish](https://docs-es.movening.com)
 * [🇨🇳 Chinese](https://docs-ch.movening.com)
-* [🇷🇺 Russian](https://docs-ru.movening.com)

@@ -5,10 +5,5 @@ coverY: 0
 
 # 💻 Requirements to play
 
-
-
-To use Movening (MOVI) you will need to have our App installed on your favorite device:
-
-* Android or iOS Smartphone - The GPS location must have permissions and be enabled for Movening to synchronize the steps with the blockchain.
-* Connect your wallet (BSC) - to start earning MOVI and NFT sneakers.
+Movening is a move to earn game, so you can play on any device, or mobile phone where you can connect any WEB3 wallet, such as Metamask.
 
