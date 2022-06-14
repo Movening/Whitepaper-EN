@@ -55,6 +55,5 @@ description: Every process has its steps, here we show you ours.
 
 **Q1/2023**
 
-⏳ Inclusion MOVENING in METAVERSE, earn profits walking through your favorite METAVERSE.
-
-⏳ **** Mode change to metaverse only.
+* ⏳ Inclusion MOVENING in METAVERSE, earn profits walking through your favorite METAVERSE.
+* ⏳ **** Mode change to metaverse only.
