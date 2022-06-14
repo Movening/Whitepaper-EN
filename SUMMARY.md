@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [TOKENOMICS](README.md)
 
 ## 🚶 General
 
-* [Overview of Movening](<README (1).md>)
+* [Overview of Movening](README.md)
 * [NFT private presale](general/nft-private-presale.md)
 * [Game-Fi](general/game-fi/README.md)
   * [Sneakers](general/game-fi/sneakers.md)
