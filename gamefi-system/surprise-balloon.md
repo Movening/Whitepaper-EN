@@ -1,4 +1,4 @@
-# Surprise balloon
+# 🎈 Surprise balloon
 
 {% hint style="warning" %}
 The higher the cost of the surprise balloon, the more chances there are of finding a rare shoe or a cumulative energy bonus.
