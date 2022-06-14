@@ -2,7 +2,7 @@
 description: Don't do tricks!
 ---
 
-# Anti-cheat system
+# ⛔ Anti-cheat system
 
 {% hint style="danger" %}
 Any misuse of cheats will get us to ban the used account permanently.

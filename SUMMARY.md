@@ -17,12 +17,12 @@
 * [📲 App Movening](app-rewarrds/app-movening.md)
 * [🎁 NFTs Staking & Private presale](app-rewarrds/nfts-staking-and-private-presale.md)
 
-## GameFi System
+## GAME
 
-* [🏃 Movening mechanics](gamefi-system/movening-mechanics.md)
-* [🎈 Surprise balloon](gamefi-system/surprise-balloon.md)
-* [⛔ Anti-cheat system](gamefi-system/anti-cheat-system.md)
-* [🏬 Market](gamefi-system/market.md)
+* [🏃 Movening mechanics](game/movening-mechanics.md)
+* [🎈 Surprise balloon](game/surprise-balloon.md)
+* [⛔ Anti-cheat system](game/anti-cheat-system.md)
+* [🏬 Market](game/market.md)
 
 ## ROADMAP / SECURITY
 
