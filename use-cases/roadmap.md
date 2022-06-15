@@ -33,6 +33,8 @@ description: Every process has its steps, here we show you ours.
 
 * ✅ Restructuring project Movening
 * ✅ Liquidity injection. (2/10)
+* ✅ Bscscan register
+* ⏳ Restructuring distribution tokenomics.
 * ⏳ Roadmap 2.0 design and creation
 * ⏳ Change Whitepaper Movening 2.0
 * ⏳ Change web Movening 2.0
