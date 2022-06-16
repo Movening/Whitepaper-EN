@@ -36,7 +36,7 @@
 ## JOB PROPOSALS / SUPPORT
 
 * [💼 JOB PROPOSALS](job-proposals-support/job-proposals.md)
-* [🔒 Security](job-proposals-support/security.md)
+* [🆘  SUPPORT](job-proposals-support/support.md)
 
 ## Languages
 
