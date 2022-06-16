@@ -10,3 +10,4 @@ Anyone can walk so equip yourself with our NFTs and get started! It is not neces
 
 Our goal is to build a social ecosystem that attracts millions of people to the world of cryptocurrency through the development of various applications and the interaction between the users themselves, or rather, to make a fit community all together.
 
+![](../.gitbook/assets/zapas4-removebg-preview.png)
