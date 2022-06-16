@@ -35,7 +35,7 @@
 
 ***
 
-* [HELP](help.md)
+* [MARKETING AND HELP](marketing-and-help.md)
 
 ## Languages
 
