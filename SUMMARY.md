@@ -33,6 +33,10 @@
 * [🔒 Security](use-cases/security.md)
 * [🔮 The Movening portal](roadmap-security/the-movening-portal.md)
 
+***
+
+* [HELP](help.md)
+
 ## Languages
 
 * [🇪🇸 Spanish](https://docs-es.movening.com)
