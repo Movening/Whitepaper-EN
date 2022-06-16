@@ -17,3 +17,5 @@ Sneakers can be different and for every taste.
 _This is where you can find your sneakers in the shape of a trout or truck, so that your imagination is not your limit!_
 
 **Extreme shoes:** _You have already reached the god mode, this is the limit, there is no further!_
+
+![](../../.gitbook/assets/zapas55-removebg-preview.png) ![](../../.gitbook/assets/630M02020E07XX\_75753B75-removebg-preview.png)
