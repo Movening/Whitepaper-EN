@@ -35,7 +35,7 @@
 
 ## JOB PROPOSALS / HELP
 
-* [🛣 Roadmap](job-proposals-help/roadmap.md)
+* [💼 JOB PROPOSALS](job-proposals-help/job-proposals.md)
 * [🔒 Security](job-proposals-help/security.md)
 * [🔮 The Movening portal](job-proposals-help/the-movening-portal.md)
 
