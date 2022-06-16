@@ -18,4 +18,4 @@ _This is where you can find your sneakers in the shape of a trout or truck, so t
 
 **Extreme shoes:** _You have already reached the god mode, this is the limit, there is no further!_
 
-![](../../.gitbook/assets/zapas55-removebg-preview.png) ![](../../.gitbook/assets/630M02020E07XX\_75753B75-removebg-preview.png)
+![](../../.gitbook/assets/801B00021H07XX\_7236727G03030303-removebg-preview.png) ![](../../.gitbook/assets/zapas55-removebg-preview.png)
