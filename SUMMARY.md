@@ -33,9 +33,11 @@
 * [🔒 Security](use-cases/security.md)
 * [🔮 The Movening portal](roadmap-security/the-movening-portal.md)
 
-***
+## JOB PROPOSALS / HELP
 
-* [MARKETING AND HELP](marketing-and-help.md)
+* [🛣 Roadmap](job-proposals-help/roadmap.md)
+* [🔒 Security](job-proposals-help/security.md)
+* [🔮 The Movening portal](job-proposals-help/the-movening-portal.md)
 
 ## Languages
 

@@ -1,2 +1,0 @@
-# MARKETING AND HELP
-
