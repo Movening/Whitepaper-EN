@@ -13,3 +13,9 @@ Movening Team Wallets
 
 
 Movening Shopping list
+
+0.23 BNB transferred for development purposes:
+
+0xb5457410189bb983E801D64C7D76e5bdCFEc1Ab3 (maketing)  to 0xc9b4144c7b85d0f7bcdc0531516eae81f70d8aad(Designer).
+
+![](<../.gitbook/assets/Pago a Maikel(logos).png>)
