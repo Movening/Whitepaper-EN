@@ -8,7 +8,7 @@ Movening Team Wallets
 
 ## Owner:
 
-## Marketing:
+## Marketing: 0xb5457410189bb983E801D64C7D76e5bdCFEc1Ab3
 
 
 
