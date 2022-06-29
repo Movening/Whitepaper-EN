@@ -4,6 +4,8 @@ description: Detailed description of each movement of the Movening equipment
 
 # 🔮 The Movening portal
 
+![](<../.gitbook/assets/Logo TEAM MOVENING\_Mesa de trabajo 1 copia 6 (1).jpg>)
+
 Movening Team Wallets
 
 ## Owner:
