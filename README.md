@@ -1,6 +1,6 @@
 # 🪙 Token Information
 
-
+![](<.gitbook/assets/JUST WALK (2).jpg>)
 
 Movening (MOVI) is a TOKEN that uses the Binance Smart Chain network and is used as currency within the Movening ecosystem.
 

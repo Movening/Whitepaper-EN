@@ -20,3 +20,5 @@
 \*Liquid pool: 2% for liquid pool
 
 \*Marketing and Reward Pool: 4%
+
+![](<../.gitbook/assets/TEAM MOVENING.jpg>)
