@@ -1,6 +1,6 @@
 # 💻 Requirements to play
 
-
+![](<../.gitbook/assets/TEAM MOVENING2.jpg>)
 
 To use Movening (MOVI) you will need to have our App installed on your favorite device:
 
