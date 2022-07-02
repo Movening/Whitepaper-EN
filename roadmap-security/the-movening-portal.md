@@ -37,3 +37,15 @@ Movening Team Wallets
 {% hint style="info" %}
 0xb5457410189bb983E801D64C7D76e5bdCFEc1Ab3 (Marketing)  to 0x4594f1E4cd81A6C7AA5526dF254Eae88671Dd3b2 (Debt).
 {% endhint %}
+
+#### **0.23 BNB transferred for development purposes:**
+
+![](<../.gitbook/assets/Pago sticker.png>)
+
+{% hint style="info" %}
+0xb5457410189bb983E801D64C7D76e5bdCFEc1Ab3 (Marketing)  to 0xc9b4144c7b85d0f7bcdc0531516eae81f70d8aad (Designer).
+{% endhint %}
+
+>
+>
+>
