@@ -37,8 +37,3 @@
 
 * [💼 JOB PROPOSALS](job-proposals-support/job-proposals.md)
 * [🆘  SUPPORT](job-proposals-support/support.md)
-
-## Languages
-
-* [🇪🇸 Spanish](https://docs-es.movening.com)
-* [🇨🇳 Chinese](https://docs-ch.movening.com)
