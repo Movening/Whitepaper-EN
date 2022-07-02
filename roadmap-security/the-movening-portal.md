@@ -30,7 +30,7 @@ Movening Team Wallets
 
 ![](../.gitbook/assets/photo\_2022-07-02\_01-55-58.jpg)
 
-#### **0.5 BNB transferred for development purposes:**
+#### **0.3 BNB transferred for development purposes:**
 
 {% hint style="info" %}
 0xb5457410189bb983E801D64C7D76e5bdCFEc1Ab3 (Marketing)  to 0x4594f1E4cd81A6C7AA5526dF254Eae88671Dd3b2 (Debt).
