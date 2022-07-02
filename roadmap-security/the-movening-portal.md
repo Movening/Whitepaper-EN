@@ -23,3 +23,5 @@ Movening Team Wallets
 ![](<../.gitbook/assets/Pago a Maikel(logos) (1).png>)
 
 #### **0.5 BNB transferred for development purposes:**
+
+0xb5457410189bb983E801D64C7D76e5bdCFEc1Ab3 (Marketing)  to 0x8131e50D9f142f4a569B2bB6607e5C35A045A352 (Debt).
