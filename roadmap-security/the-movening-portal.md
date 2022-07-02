@@ -32,6 +32,8 @@ Movening Team Wallets
 
 #### **0.3 BNB transferred for development purposes:**
 
+![](<../.gitbook/assets/Pago (1).png>)
+
 {% hint style="info" %}
 0xb5457410189bb983E801D64C7D76e5bdCFEc1Ab3 (Marketing)  to 0x4594f1E4cd81A6C7AA5526dF254Eae88671Dd3b2 (Debt).
 {% endhint %}
